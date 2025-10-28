@@ -19,6 +19,7 @@ Libraries - The following libraries we've developed for particular boards, modul
 - For *Interface-Shield*: [PTSolns_InterfaceShield](https://github.com/PTSolns/PTSolns_InterfaceShield)  
 - For *Pico Base* family: [PTSolns_PicoBase](https://github.com/PTSolns/PTSolns_PicoBase)
 - For any BMx280 (BMP280, BME280) sensor module: [BMx280](https://github.com/PTSolns/BMx280)
+- For any AHTx (AHT20, etc) sensor module: [PTSolns_AHTx](https://github.com/PTSolns/PTSolns_AHTx)
 
 ## Official Sales Channels & Unauthorized Resellers
 For all of our PTSolns products, check out our [Catalog](https://ptsolns.com/pages/catalog). PTSolns products are available from the following official channels:
