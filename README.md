@@ -20,6 +20,7 @@ Libraries - The following libraries we've developed for particular boards, modul
 - For *Pico Base* family: [PTSolns_PicoBase](https://github.com/PTSolns/PTSolns_PicoBase)
 - For any BMx280 (BMP280, BME280) sensor module: [BMx280](https://github.com/PTSolns/BMx280)
 - For any AHTx (AHT20, etc) sensor module: [PTSolns_AHTx](https://github.com/PTSolns/PTSolns_AHTx)
+- For any VEML7700 sensor module: [PTSolns_VEML7700](https://github.com/PTSolns/PTSolns_VEML7700)
 
 ## Official Sales Channels & Unauthorized Resellers
 For all of our PTSolns products, check out our [Catalog](https://ptsolns.com/pages/catalog). PTSolns products are available from the following official channels:
