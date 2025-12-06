@@ -3,6 +3,7 @@
 We are a Canadian 🍁 company developing high-quality electrical boards and modules, and related open-source software for the Maker community. Our products can be used in Internet-of-Things (IoT) projects, automation, prototyping, and Tinkering!
 
 ## Software Projects
+
 [*PTSolns IDE*](https://ptsolns.com/ptsolns-ide) is free and open-source software for programming a wide range of microcontroller development boards. Our goals in developing and providing PTSolns IDE:
 
 - Free to download, No subscriptions, No fees  
@@ -10,6 +11,13 @@ We are a Canadian 🍁 company developing high-quality electrical boards and mod
 - Open-source & Community driven  
 
 *PTSolns IDE* comes with countless example sketches, is compatible with many common boards (AVR, RPi, Espressif, etc.) and over 8500 third-party custom libraries are available to be included. Other perks include CH340 driver inherent support and intuitive user-experience
+
+<a href="https://ptsolns.com/ide">
+  <img src="https://raw.githubusercontent.com/PTSolns/PTSolns-IDE/main/Logo/PTSolns%20IDE%20Logo%20Partial%20with%20Slogan.jpg" alt="PTSolns Logo" width="400">
+</a>
+
+
+
 
 ***
 
